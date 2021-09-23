@@ -1,0 +1,13 @@
+.box {
+  text-align: center;
+  background: #aaaaaa;
+  outline: 20px solid tomato;
+}
+.menu {
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+}
+.list {
+  list-style: none;
+}
